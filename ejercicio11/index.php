@@ -9,8 +9,8 @@
 		<link rel="stylesheet" type="text/css" href="../css/animacion.css">
 		<!--final de Estilos-->
 
-		<!--Lógica-Programación-->
-		<script type="text/javascript" src="jsReflejosDaltonicos1.js"></script>
+		<!--Lógica-Programación
+		<script type="text/javascript" src="jsReflejosDaltonicos1.js"></script>-->
         <!--Final de Lógica-Programación -->
 		
 
